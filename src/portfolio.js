@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     "Computer Science and Engineering Undergraduate, Open Source Enthusiast 🔥. Always learning.",
   resumeLink:
-    "https://docs.google.com/document/d/1A_jWRG74Rst427tg1izLa6vRXclS9_9F856jWJPJlDY/edit?usp=sharing",
+    "https://drive.google.com/file/d/15x_Z0XDPK4N_wu3nDe2Yj4HVedCCNn9Y/view?usp=sharing",
   mail: "mailto:wimukhibw@gmail.com",
 };
 
