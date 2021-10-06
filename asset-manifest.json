@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.adf87391.chunk.css",
-    "main.js": "/static/js/main.b240c5bf.chunk.js",
-    "main.js.map": "/static/js/main.b240c5bf.chunk.js.map",
+    "main.js": "/static/js/main.28d68754.chunk.js",
+    "main.js.map": "/static/js/main.28d68754.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.00060668.js",
     "runtime-main.js.map": "/static/js/runtime-main.00060668.js.map",
-    "static/js/2.d6f745fb.chunk.js": "/static/js/2.d6f745fb.chunk.js",
-    "static/js/2.d6f745fb.chunk.js.map": "/static/js/2.d6f745fb.chunk.js.map",
+    "static/js/2.a4e04cff.chunk.js": "/static/js/2.a4e04cff.chunk.js",
+    "static/js/2.a4e04cff.chunk.js.map": "/static/js/2.a4e04cff.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.98d0037c47130aa4ed1c466b40f253d5.js": "/precache-manifest.98d0037c47130aa4ed1c466b40f253d5.js",
+    "precache-manifest.2f71a0ebca71aed2d5460537526067f1.js": "/precache-manifest.2f71a0ebca71aed2d5460537526067f1.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.adf87391.chunk.css.map": "/static/css/main.adf87391.chunk.css.map",
-    "static/js/2.d6f745fb.chunk.js.LICENSE.txt": "/static/js/2.d6f745fb.chunk.js.LICENSE.txt",
+    "static/js/2.a4e04cff.chunk.js.LICENSE.txt": "/static/js/2.a4e04cff.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Wimukthi.png": "/static/media/Wimukthi.73daf7ac.png",
     "static/media/buld.jpg": "/static/media/buld.a1051a22.jpg",
@@ -30,20 +30,18 @@
     "static/media/localguide.png": "/static/media/localguide.b7f903d7.png",
     "static/media/mlh-logo.svg": "/static/media/mlh-logo.bc5cfd3a.svg",
     "static/media/mlh.png": "/static/media/mlh.53dd27a8.png",
-    "static/media/mongo.png": "/static/media/mongo.d324ee17.png",
     "static/media/nightowls.jpg": "/static/media/nightowls.5dcd18d0.jpg",
     "static/media/postman.jpg": "/static/media/postman.22f11067.jpg",
     "static/media/postman.png": "/static/media/postman.c108f557.png",
     "static/media/skillenza.png": "/static/media/skillenza.7b7a76ef.png",
-    "static/media/ssec.png": "/static/media/ssec.8901092d.png",
-    "static/media/ssgandhy.png": "/static/media/ssgandhy.894ef0fc.png",
-    "static/media/valora.jpg": "/static/media/valora.246ad3ed.jpg",
+    "static/media/ssec.png": "/static/media/ssec.76f4b68c.png",
+    "static/media/ssgandhy.png": "/static/media/ssgandhy.ae9a5acb.png",
     "static/media/wrighter.jpg": "/static/media/wrighter.02fdae43.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.00060668.js",
-    "static/js/2.d6f745fb.chunk.js",
+    "static/js/2.a4e04cff.chunk.js",
     "static/css/main.adf87391.chunk.css",
-    "static/js/main.b240c5bf.chunk.js"
+    "static/js/main.28d68754.chunk.js"
   ]
 }

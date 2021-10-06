@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "249aa985b32288cc12091066fec506ac",
+    "revision": "9e69835dfe35b9443269d729b701058b",
     "url": "/index.html"
   },
   {
-    "revision": "271757de76776b8239eb",
+    "revision": "b28497d2909b531792c0",
     "url": "/static/css/main.adf87391.chunk.css"
   },
   {
-    "revision": "9aaf413a4e3378021857",
-    "url": "/static/js/2.d6f745fb.chunk.js"
+    "revision": "50e683a634bd18887a8f",
+    "url": "/static/js/2.a4e04cff.chunk.js"
   },
   {
     "revision": "4cf5c6c6f464cc15458a86cbdc669a15",
-    "url": "/static/js/2.d6f745fb.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.a4e04cff.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "271757de76776b8239eb",
-    "url": "/static/js/main.b240c5bf.chunk.js"
+    "revision": "b28497d2909b531792c0",
+    "url": "/static/js/main.28d68754.chunk.js"
   },
   {
     "revision": "86270678e9ad3edc9349",
@@ -180,10 +180,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/mlh.53dd27a8.png"
   },
   {
-    "revision": "d324ee17433678f2c32e57198b98c6db",
-    "url": "/static/media/mongo.d324ee17.png"
-  },
-  {
     "revision": "5dcd18d03068fbd9edeeb5003b21998a",
     "url": "/static/media/nightowls.5dcd18d0.jpg"
   },
@@ -200,16 +196,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/skillenza.7b7a76ef.png"
   },
   {
-    "revision": "8901092d61bfd611f75368233b1774c6",
-    "url": "/static/media/ssec.8901092d.png"
+    "revision": "76f4b68ceae3ce98c602cb9f1a9f43c5",
+    "url": "/static/media/ssec.76f4b68c.png"
   },
   {
-    "revision": "894ef0fc8dfe1c0ab658636b806049db",
-    "url": "/static/media/ssgandhy.894ef0fc.png"
-  },
-  {
-    "revision": "246ad3ede6a55b0102afa9871cfcbf21",
-    "url": "/static/media/valora.246ad3ed.jpg"
+    "revision": "ae9a5acb34bfbb71ba7de56733b54055",
+    "url": "/static/media/ssgandhy.ae9a5acb.png"
   },
   {
     "revision": "02fdae4350ca45cabdc9c40cc11efc2a",
