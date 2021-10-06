@@ -2,7 +2,7 @@
   "private": true,
   "name": "personalPortfolio",
   "version": "1.0.0",
-  "homepage": "https://wimukti.github.io/portfolio/",
+  "homepage": "https://wimukti.github.io/",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
